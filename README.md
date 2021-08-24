@@ -1,3 +1,3 @@
-# pentest_tools
-Tools and exploits for pentesting
+# MS08-067
+Based on jivoi script https://github.com/jivoi/pentest/blob/master/exploit_win/ms08-067.py running on python3
 
